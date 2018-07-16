@@ -1,7 +1,7 @@
 {
-  "name": "hummingbird",
+  "name": "UNIDB",
   "version": "1.0.0",
-  "description": "A Platform for Bloggers",
+  "description": "University Database",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
