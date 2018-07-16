@@ -10,13 +10,15 @@ Express
 
 ## Setup
 Go to the unidb folder directory in the terminal and enter the command
-### npm install to install the backend dependencies
+#### npm install
+install the backend dependencies
 
 Go to the unidb/client folder directory in the terminal and enter the command
-### npm install to install the frontend dependencies
+#### npm install
+install the frontend dependencies
 
 ## To view page locally
 Run the following command
-### npm run dev
+#### npm run dev
 The backend server will be running at port http://localhost:5000
 The frontend client server will be running at port http://localhost:3000
