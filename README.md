@@ -1,5 +1,6 @@
 # UNIDB - University Database
 
+### The project is still under development
 The project is based on MERN stack. It uses ReactJs on the frontend and NodeJs at back end with a MongoDB database as well as express middleware.
 
 ## Technologies
@@ -26,3 +27,9 @@ The backend server will be running at port http://localhost:5000
 
 ### Frontend server
 The frontend client server will be running at port http://localhost:3000
+
+# TODO
+* Add Course Schema
+* Add Subject Schema
+* Add Subject button with courses listed in frontend
+* Add follow button
